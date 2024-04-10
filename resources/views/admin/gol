@@ -1,0 +1,10 @@
+<x-appo-layout>
+
+@section('navadmin1')
+
+@endsection
+
+@section('navadmin2')
+
+@endsection
+</x-appo-layout>
